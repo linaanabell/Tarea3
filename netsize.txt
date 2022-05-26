@@ -1,0 +1,7 @@
+EJERCICIO A
+ITURRALDE LINA
+File Name: ../data/Saavedra2013/n1.txt
+Name of rows:
+97
+Name of columns:
+80
