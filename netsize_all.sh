@@ -33,3 +33,4 @@ echo "Number of columns" >>netsize_all.txt
 for i in ../Saavedra2013/*.txt
 do  head -n 1 $i| tr -d " " | tr -d "\n" | wc -c >>netsize_all.txt
 done
+
