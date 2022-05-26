@@ -11,7 +11,6 @@
 #El comando tr "\n" elimina los espacios del final
 #El comando wc -c cuenta los caracteres
 
-
 echo "EJERCICIO A"
 echo "ITURRALDE LINA"
 echo "File Name: ../data/Saavedra2013/n1.txt"
